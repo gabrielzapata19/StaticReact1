@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/StaticReact1/static/css/main.b2bd3dab.chunk.css",
+    "main.js": "/github.io/StaticReact1/static/js/main.ff8710dd.chunk.js",
+    "main.js.map": "/github.io/StaticReact1/static/js/main.ff8710dd.chunk.js.map",
+    "runtime-main.js": "/github.io/StaticReact1/static/js/runtime-main.e28bd0e1.js",
+    "runtime-main.js.map": "/github.io/StaticReact1/static/js/runtime-main.e28bd0e1.js.map",
+    "static/js/2.d68a832c.chunk.js": "/github.io/StaticReact1/static/js/2.d68a832c.chunk.js",
+    "static/js/2.d68a832c.chunk.js.map": "/github.io/StaticReact1/static/js/2.d68a832c.chunk.js.map",
+    "index.html": "/github.io/StaticReact1/index.html",
+    "precache-manifest.7815aeb07eaa5ced23f82c766092a3f0.js": "/github.io/StaticReact1/precache-manifest.7815aeb07eaa5ced23f82c766092a3f0.js",
+    "service-worker.js": "/github.io/StaticReact1/service-worker.js",
+    "static/css/main.b2bd3dab.chunk.css.map": "/github.io/StaticReact1/static/css/main.b2bd3dab.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e28bd0e1.js",
+    "static/js/2.d68a832c.chunk.js",
+    "static/css/main.b2bd3dab.chunk.css",
+    "static/js/main.ff8710dd.chunk.js"
+  ]
+}
